@@ -1,4 +1,4 @@
-![example](https://mwomick.github.io/assets/images/wrld.png)
+![example](https://github.com/mwomick/mwomick/raw/main/wrld.jpg)
 ## 👋 Hi there...
 I'm Michael Womick, a senior computer science student at UNC-Chapel Hill
 - 👀 I’m interested in computer graphics and image processing.
